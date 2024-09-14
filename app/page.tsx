@@ -1,7 +1,7 @@
 // import clsx from "clsx";
 // import { useState } from 'react';
 "use client"
-import { Modal, FileInput, Clipboard, Button, Alert  } from "flowbite-react";
+import { Modal, FileInput, Button, Alert  } from "flowbite-react";
 import { HiOutlineArrowRight } from "react-icons/hi";
 import { useState } from "react";
 import { motion, AnimatePresence } from 'framer-motion';
