@@ -1,0 +1,28 @@
+{
+  "fvv": 1,
+  "pageHistory": 0,
+  "fbzx": "8730754191074421777",
+  "action": "e/1FAIpQLSd2oh2Uz_KsEtsET6Ifclp_c2l2BBZSWi3WoLDEGZ-YkpfZVw",
+  "title": "CONNECTION TO GFORMS",
+  "description": null,
+  "fields": [
+    {
+      "label": "NAME",
+      "description": null,
+      "type": "SHORT_ANSWER",
+      "id": "956302238",
+      "required": false
+    },
+    {
+      "label": "EMAIL",
+      "description": null,
+      "type": "SHORT_ANSWER",
+      "id": "1188862622",
+      "required": false
+    }
+  ],
+  "fieldsOrder": {
+    "956302238": 0,
+    "1188862622": 1
+  }
+}
